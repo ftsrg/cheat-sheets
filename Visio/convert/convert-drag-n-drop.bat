@@ -1,3 +1,3 @@
 @echo off
-cscript convert.vb %1
+cscript convert.vbs %1
 move *.pdf ../src/figures/

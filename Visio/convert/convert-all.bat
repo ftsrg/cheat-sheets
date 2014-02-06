@@ -1,3 +1,3 @@
 @echo off
-for %%i in (*.vsdx) do cscript convert.vb %%i
+for %%i in (*.vsdx) do cscript convert.vbs %~dp0%%i
 move *.pdf ../src/figures/
