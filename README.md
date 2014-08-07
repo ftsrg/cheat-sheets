@@ -1,6 +1,6 @@
 Technology Cheat Sheets
 =======================
 
-Getting started tutorials and cheat sheets for various technologies used in my personal and professional projects.
+Getting started tutorials and cheat sheets for various technologies used in our projects.
 
-The main content is in the [wiki](https://github.com/FTSRG/Technology-Cheat-Sheets/wiki).
+To get the cheat sheets, please visit the [wiki](https://github.com/FTSRG/Technology-Cheat-Sheets/wiki) of this repository.
